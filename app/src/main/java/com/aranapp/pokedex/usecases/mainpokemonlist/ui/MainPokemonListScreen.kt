@@ -53,7 +53,7 @@ fun Logo() {
         modifier = Modifier
             .height(120.dp)
             .padding(16.dp),
-        painter = painterResource(id = R.drawable.pokemon_logo),
+        painter = painterResource(id = R.drawable.info_dex),
         contentDescription = "PokemonLogo"
     )
 }
